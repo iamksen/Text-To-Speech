@@ -1,0 +1,16 @@
+{
+	"name": "Text To Speech",
+	"description": "Select the text and click on icon",
+	"version": "1.0",
+	"permissions": [
+		"activeTab"
+	],
+	"background":{
+		"scripts": ["background.js"],
+		"persistent": false
+	},
+	"browser_action": {
+		"default_title": "Text To Speech"
+	},
+	"manifest_version":2
+}

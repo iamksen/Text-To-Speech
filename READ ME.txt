@@ -1,0 +1,5 @@
+HOW TO USE
+Select the text you want browser to speak.
+Then click on extension icon.
+
+If extension don't work, close your browser and open it again!
